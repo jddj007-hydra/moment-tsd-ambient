@@ -1,0 +1,15 @@
+{
+  "name": "retyped-moment-tsd-ambient",
+  "description": "TypeScript typings for moment",
+  "version": "2.8.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/moment-tsd-ambient",
+  "typescript": {
+    "definition": "moment.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
